@@ -1,0 +1,28 @@
+{
+  "name": "js-ant",
+  "version": "0.0.1",
+  "description": "js utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjh22222228/utils3.git"
+  },
+  "keywords": [
+    "js",
+    "utils"
+  ],
+  "author": "xiejiahe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xjh22222228/utils3/issues"
+  },
+  "homepage": "https://github.com/xjh22222228/utils3#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/plugin-transform-runtime": "^7.10.3",
+    "@babel/preset-env": "^7.10.3"
+  }
+}

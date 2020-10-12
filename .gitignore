@@ -1,4 +1,3 @@
-logs/
 npm-debug.log
 **/node_modules
 node_modules/
@@ -7,3 +6,4 @@ coverage/
 run/
 .DS_Store
 *.swp
+.eslintcache

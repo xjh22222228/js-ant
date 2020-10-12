@@ -1,2 +1,0 @@
-# js-ant
-js-ant

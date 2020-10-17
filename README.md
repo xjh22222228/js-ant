@@ -42,6 +42,11 @@ console.log(
 console.log(
   formatDateTime(new Date())
 )
+
+// 星期日
+console.log(
+  getWeek()
+)
 ```
 
 

@@ -36,13 +36,13 @@ const result = markdown.render('## Markdown')
 import { formatDate, formatDateTime, getWeek } from 'js-ant'
 
 // YYYY-MM-DD 2020-11-11
-const date = formatDate(new Date())
+formatDate(new Date())
 
 // YYYY-MM-DD HH:mm:ss 2020-11-11 11:11:11
-const dateTime = formatDateTime(new Date())
+formatDateTime(new Date())
 
 // 星期日
-const week = getWeek()
+getWeek()
 ```
 
 

@@ -3,6 +3,8 @@
 <p align="center">
   <p align="center">
     <img src="https://img.shields.io/github/package-json/v/xjh22222228/js-ant" />
+    <img alt="JavaScript" src="https://img.shields.io/static/v1.svg?label=&message=JavaScript&style=flat-square&color=yellow">
+    <img src="https://img.shields.io/github/license/xjh22222228/js-ant" />
     <img src="https://img.shields.io/github/license/xjh22222228/js-ant" />
   </p>
 </p>
@@ -11,7 +13,9 @@
 
 ## Install
 ```bash
-yarn add js-antd
+$ npm i js-antd -S
+# or
+$ yarn add js-antd
 ```
 
 
@@ -61,11 +65,11 @@ toSplash([1, false, 2], '-') // 1-2
 
 ## Set up
 ```bash
-git clone --depth=1 https://github.com/xjh22222228/js-ant.git
+$ git clone --depth=1 https://github.com/xjh22222228/js-ant.git
 
-yarn build
+$ yarn build
 
-yarn check
+$ yarn check
 ```
 
 
@@ -73,6 +77,3 @@ yarn check
 
 ## LISTEN
 [MIT](./LICENSE)
-
-
-
